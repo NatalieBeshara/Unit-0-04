@@ -2,7 +2,8 @@
 // Created on: 13-Sept-2018
 // Created by: Natalie Beshara
 // Created for: ICS3U
-// This program is the UIKit solution for the name, city and address program with a bottun
+// This program is the UIKit solution for the phrase “Hello, World!” To be displayed in English, French and Italian when clicked on that language’s button
+
 
 // this will be commented out when code moved to Xcode
 import PlaygroundSupport
